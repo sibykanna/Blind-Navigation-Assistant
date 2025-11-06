@@ -1,0 +1,8 @@
+# Ignore virtual environment and temp files
+.venv/
+__pycache__/
+captures/
+*.pyc
+*.pyo
+*.pyd
+*.zip
